@@ -100,3 +100,11 @@ contact-centre-performance-analytics/
 ## Limitations
 
 This is a portfolio analytics project. Findings should be interpreted in the context of the dataset's scope, reporting period, available fields, and KPI definitions. Recommendations have not been validated through operational implementation.
+
+## Dashboard Preview
+
+### Contact Centre Overview
+![Contact Centre Overview](images/overview.png)
+
+### Call Abandonment Analysis
+![Call Abandonment Analysis](images/abandonment-analysis.png)
